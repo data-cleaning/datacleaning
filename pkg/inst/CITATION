@@ -1,0 +1,7 @@
+bibentry(bibtype = "book",
+ title = "Statistical Data Cleaning with Applications in R"
+ , author = c(person("M.P.J.", "van der Loo"),person("E","de Jonge"))
+ , year = {in press}
+ , publisher = {Wiley, {I}nc.}
+)
+
