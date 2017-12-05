@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rd*/
+
+datacleaning.Rproj
+
+manual.pdf
+pkg/man/
+output/

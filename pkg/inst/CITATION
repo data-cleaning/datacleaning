@@ -1,7 +1,7 @@
 bibentry(bibtype = "book",
- title = "Statistical Data Cleaning with Applications in R"
+ title = "Statistical {D}ata {C}leaning with {A}pplications in {R}"
  , author = c(person("M.P.J.", "van der Loo"),person("E","de Jonge"))
- , year = {in press}
- , publisher = {Wiley, {I}nc.}
+ , year = "In {P}ress"
+ , publisher = "Wiley, {I}nc."
 )
 
